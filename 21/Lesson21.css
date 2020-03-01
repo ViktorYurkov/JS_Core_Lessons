@@ -1,0 +1,15 @@
+#dragable {
+    width: 150px;
+    height: 100px;
+    border: 3px;
+    border-style: solid;
+    background-color: lightblue;
+}
+
+#droppable {
+    width: 250px;
+    height: 250px;
+    border: 3px;
+    border-style: solid;
+
+}
